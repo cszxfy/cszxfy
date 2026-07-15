@@ -13,8 +13,7 @@
 - 🌱 Currently learning **Web Development & AI**
 - 💻 Interested in **Open Source**
 - 🚀 Always learning something new
-- 📫 Reach me: **your-email@example.com**
-- ⚡ Fun fact: I turn coffee ☕ into code.
+- 📫 Reach me: mudasiramin217@gmail.com
 
 ---
 
