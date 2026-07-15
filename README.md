@@ -1,5 +1,4 @@
-## Hi there 👋
-  ![Snake](https://github.com/cszxfy/cszxfy/blob/output/github-contribution-grid-snake.svg)
+
   <h1 align="center">Hi 👋, I'm cszxfy</h1>
 <h3 align="center">A Passionate Developer 🚀</h3>
 
