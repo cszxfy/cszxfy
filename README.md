@@ -38,7 +38,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
- ![GitHub Streak](https://streak-stats.demolab.com?user=cszxfy&theme=tokyonight)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=cszxfy)](https://git.io/streak-stats)
 </p>
 
 ---
