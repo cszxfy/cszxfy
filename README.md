@@ -27,29 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cszxfy&show_icons=true&theme=tokyonight)
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=cszxfy&theme=tokyonight&margin-w=15"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
